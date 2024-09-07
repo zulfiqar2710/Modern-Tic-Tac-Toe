@@ -59,7 +59,7 @@
 
 #msg {
   color: #ffffc7;
-  font-size: 7vmin;
+  font-size: 6vmin;
   padding-bottom: 80px;
 }
 
@@ -76,6 +76,6 @@
   display: none;
 }
 .Tic{
-  color: #ffffff;
+  color: #ffff14;
   padding-top: 20px;
 }
