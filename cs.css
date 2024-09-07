@@ -9,7 +9,7 @@
   }
   
   .container {
-    height: 70vh;
+    height: 80vh;
     display: flex;
   
     justify-content: center;
@@ -17,8 +17,8 @@
   }
   
   .game {
-    height: 60vmin;
-    width: 60vmin;
+    height: 70vmin;
+    width: 70vmin;
     display: flex;
     flex-wrap: wrap;
   justify-content: center;
@@ -27,8 +27,8 @@
 }
 
 .box {
-  height: 18vmin;
-  width: 18vmin;
+  height: 20vmin;
+  width: 20vmin;
   border-radius: 1rem;
   border: 2px solid white;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
