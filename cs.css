@@ -27,8 +27,8 @@
 }
 
 .box {
-  height: 25vmin;
-  width: 25vmin;
+  height: 35vmin;
+  width: 35vmin;
   border-radius: 1rem;
   border: 2px solid white;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
